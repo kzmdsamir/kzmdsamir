@@ -5,7 +5,7 @@ that turn chaos into structured intelligence.
 
 🔭 Currently building:
 - AI Avatar Home Assistant (local-first)
-- VaultFlowy — structured thinking & memory system
+- Cadence — premium calendar and organization tool designed to help you synchronize your life
 
 🛠 Tech:
 Python, Node.js, APIs, LLMs, Automation
