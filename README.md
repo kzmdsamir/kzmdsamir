@@ -45,5 +45,5 @@ I am interested in solving the deployment problem—building practical, reproduc
 ---
 
 ### 📬 Connect
-* **Email:** [your.email@example.com](mailto:kzsamir849@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kazi-samir-marketer/)
+* **Email:** [kzsamir849@gmail.com](mailto:kzsamir849@gmail.com)
+* **LinkedIn:** [linkedin.com/in/kazi-samir-marketer/](https://www.linkedin.com/in/kazi-samir-marketer/)
