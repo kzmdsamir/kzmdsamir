@@ -1,27 +1,7 @@
-## Hi, I'm Samir 👋
+I am a backend engineer and systems designer who builds local-first AI tools, high-throughput automation pipelines, and infrastructure that turn operational concepts into reliable, production-ready software. My work bridges the gap between deep technical execution and commercial operations, with a focus on Python, FastAPI, Node.js, Docker, Linux, and applied machine learning.
 
-I design and build backend systems, AI tools, and automation pipelines that turn ideas into reliable software.
+My path combines hands-on engineering with direct operational management. Operating an online video post-production agency and handling media asset pipelines—working daily with tools like Adobe After Effects, Premiere Pro, and Blender—showed me firsthand where operational bottlenecks occur. To solve those inefficiencies, I built custom backend tracking architectures, database workflows using Notion and Google Apps Script, and local development environments. This grounded, operationally intensive background taught me to view software not as isolated code, but as an engine for business performance and workflow ROI.
 
-### Focus areas
-- AI assistants and local-first AI workflows
-- Backend APIs and service orchestration
-- Dockerized deployment and infrastructure tooling
-- Productivity systems and productized automation
+My primary focus today is applied AI and local-first systems architecture. I specialize in engineering private, deterministic AI workflows that eliminate reliance on fragile cloud dependencies. Key projects include **AI Avatar Home Assistant**, a local-first assistant built for privacy-aware home and workspace automation; **Cadence**, a structured calendar and operational system designed for systematic goal execution; and **LLM GPU Docker Mini**, a containerized framework for running, orchestrating, and benchmarking LLM inference across consumer GPU hardware. My local AI stack leverages containerized setups, Agent Zero, LM Studio APIs, n8n, Supabase, and custom FastAPI middleware to build resilient, local-first automation pipelines.
 
-### Selected work
-- **AI Avatar Home Assistant** — local-first assistant for privacy-aware automation
-- **Cadence** — premium calendar and life-organization product
-- **LLM GPU Docker Mini** — containerized LLM inference and benchmarking on consumer GPU hardware
-
-### Stack
-Python • FastAPI • Node.js • Docker • Linux • APIs • LLMs • Automation
-
-### How I work
-- Build practical systems
-- Keep things reproducible
-- Measure performance
-- Iterate from evidence
-
-### Philosophy
-Systems > Motivation  
-Execution > Consumption
+The unifying pattern across my work is simple: *Systems > Motivation* and *Execution > Consumption*. I am interested in solving the deployment problem—building practical, reproducible systems grounded in evidence and performance metrics, designed to function reliably in environments where accuracy and uptime matter.
