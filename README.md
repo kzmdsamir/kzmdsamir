@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
   <h1>Hi, I'm Samir 👋</h1>
@@ -29,7 +29,7 @@ const Samir = {
   motto:      "Systems > Motivation | Execution > Consumption"
 };
 
-```
+
 
 My path combines hands-on engineering with direct operational management. Operating a post-production video agency showed me firsthand where operational bottlenecks destroy leverage. To solve these friction points, I built custom backend tracking architectures, automated database workflows, and optimized local runtime environments.
 
